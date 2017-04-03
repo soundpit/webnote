@@ -6,9 +6,9 @@ class Database {
   //connection
   
   private $host = "localhost";
-  private $user = "builtbye_webnote";
-  private $password = "Webnote_pass123";
-  private $dbname = "builtbye_web_note";
+  private $user = "****";
+  private $password = "***";
+  private $dbname = "***";
   
   private $dbh; //database handler
   private $error; //collect the errors
